@@ -10,7 +10,8 @@
 
    + **Telegram:** [dilnura_seidalieva]()
 
-     
+   + **Instagram:** [@dilnura_seidalieva]()
+
 
 ---
 
