@@ -34,7 +34,9 @@ effectively to accomplish multiple tasks.
 
 ---
 
-
+### Work Experience
+MIUI online shop,
+Prototype web site to the HTML5
 
 ### Code example
 
