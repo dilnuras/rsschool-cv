@@ -30,6 +30,7 @@ effectively to accomplish multiple tasks.
     Css3, Bootstrap
     JavaScript
     React basic
+    Jquery
     GitHub
     Photoshop, Figma
 
